@@ -1,6 +1,16 @@
 ---
 name: giveaway-skills
-description: Call guide and best practices for the BSC on-chain giveaway contract based on contracts/contracts/Giveaway.sol, including contract address, core method signatures, parameter meanings, and conventions for calling the contract from scripts, frontends, or OpenClow workflows via ethers/web3. Use this skill when you need to create giveaways, claim giveaways, manage whitelists, or withdraw expired giveaways on BSC.
+display_name: BSC Giveaway Contract Call Skill
+description: >
+  Call guide and best practices for the BSC on-chain giveaway contract based on contracts/contracts/Giveaway.sol, including contract address, core method signatures, parameter meanings, and conventions for calling the contract from scripts, frontends, or OpenClow workflows via ethers/web3. Use this skill when you need to create giveaways, claim giveaways, manage whitelists, or withdraw expired giveaways on BSC.
+author: frank
+version: 0.1.0
+language: en
+tags:
+  - bsc
+  - evm
+  - giveaway
+  - contract-call
 ---
 
 # BSC Giveaway Contract Call Skill
